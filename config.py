@@ -9,9 +9,12 @@ method = {'IL': {
  'jackpot_prize': 80000000,
  'max_number': 37,
  'extra_number': 7,
- '6_prize': [10000, 50000, 125000, 150000, 250000, 500000],
+ '6_prize': 3000000,
+ '5_prize_special': 500000,
  '5_prize': 5000,
+ '4_prize_special': 10000,
  '4_prize': 1000,
+ '3_prize_special': 1000,
  '3_prize': 100,
  'ticket_price': 6.6
  }}
